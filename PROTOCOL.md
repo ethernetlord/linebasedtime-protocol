@@ -1,7 +1,7 @@
-# **LineBasedTime Protocol**, version 1
+# **LineBasedTime Protocol, version 1**
 This file describes, how the first version of LineBasedTime protocol works. It is a simple open one-way line-based text protocol that can work over any reliable connection-based transport protocol (preferably TCP) and is designed to fetch time information from a server by remote clients over a network.
 
-Its open-source reference server implementation can be found [here](/ethernetlord/linebasedtime-server/) and its client implementation [here](/ethernetlord/linebasedtime-client/).
+Its open-source reference server implementation can be found [here](https://github.com/ethernetlord/linebasedtime-server) and its client implementation [here](https://github.com/ethernetlord/linebasedtime-client).
 
 ---
 

@@ -1,10 +1,10 @@
 # LineBasedTime protocol documentation
 
-This repository contains the documentation of the LineBasedTime protocol, which is used for example by its reference [server](/ethernetlord/linebasedtime-server/) and [client](/ethernetlord/linebasedtime-client/) implementations.
+This repository contains the documentation of the LineBasedTime protocol, which is used for example by its reference [server](https://github.com/ethernetlord/linebasedtime-server) and [client](https://github.com/ethernetlord/linebasedtime-client) implementations.
 
 #### Available formats:
-* **[GitHub Markdown](/ethernetlord/linebasedtime-protocol/blob/master/PROTOCOL.md)**
-* **[HTML](/ethernetlord/linebasedtime-protocol/blob/master/PROTOCOL.html)**
+* **[GitHub Markdown](PROTOCOL.md)**
+* **[HTML](PROTOCOL.html)**
 
 ---
 
