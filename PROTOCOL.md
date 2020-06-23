@@ -46,6 +46,7 @@ S: ERR: N
 S: UNX: 1592769880
 S: UTC: Sun Jun 21 20:04:40 2020
 S: LOC: Sun Jun 21 22:04:40 2020
+C: <receives message>
 S: <closes TCP connection>
 C: <closes TCP connection>
 ```
@@ -57,6 +58,7 @@ C: <opens TCP connection to server>
 S: <confirms incoming TCP connection>
 S: VER: 1
 S: ERR: Y
+C: <receives message>
 S: <closes TCP connection>
 C: <closes TCP connection>
 ```
